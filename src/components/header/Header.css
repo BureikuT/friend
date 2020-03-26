@@ -23,10 +23,42 @@
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
   font-weight: 700;
-padding-top: 5px;}
+  padding-top: 4px;
+  padding-right: 50px
+}
 
-/* .options {
+.options {
   display: flex;
   flex-direction: row;
-  align-content: center;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: 700;
+  padding-top: 4.3px;
+}
+
+.about{
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-right: 50px;
+  
+}
+
+.contact{
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-right: 50px;
+}
+
+/* .button{
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-right: 50px;
+  color: #ffffff;
+  background-color: #333333;
+  border: 2px solid #333333; 
+  border-right-color: #ffffff;
+  padding-bottom: 15px
 } */
