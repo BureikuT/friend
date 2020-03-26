@@ -1,0 +1,67 @@
+.footer {
+  background-color: #000000;
+  color: #605c5c;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+ 
+}
+
+.info{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+
+
+}
+
+
+.location {
+  display: flex;
+  flex-direction: column;
+}
+
+.locationImg {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+
+.cityState {
+  padding-top: 5px;
+  color: #605c5c;
+  font-weight: 500;
+}
+
+
+.email {
+  display: flex;
+  flex-direction: column;
+}
+
+
+.emailImg {
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+
+.emailAddress{
+    padding-top: 5px;
+    color: #605c5c;
+    font-weight: 500;  
+}
+
+
+ .end{
+display: flex;
+    justify-content: center;
+    padding-top: 10px
+}
+
+
