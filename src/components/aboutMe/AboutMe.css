@@ -1,0 +1,48 @@
+.aboutComp {
+    /* padding-bottom: 10%; */
+}
+
+/* .openSpace {
+  position: relative;
+  margin: 0;
+  width: 100%;
+  min-width: 478px;
+} */
+.aboutMe {
+  font-family: "Open Sans Extra Bold", sans-serif;
+  background-color: #ebebeb;
+  display: flex;
+  justify-content: center;
+  color: #17273d;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 43px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.jwb {
+  font-family: "Open Sans", sans-serif;
+  color: #17273d;
+  font-weight: 600;
+  font-size: 14px;
+  padding-top: 30px;
+}
+
+.title {
+  font-family: "Open Sans", sans-serif;
+  color: #17273d;
+  font-weight: 600;
+  line-height: 18px;
+
+  font-size: 14px;
+  padding-top: 20px;
+}
+
+.descriptions {
+  font-family: "Open Sans", sans-serif;
+  color: #17273d;
+  font-weight: 400;
+  line-height: 18px;
+  font-size: 14px;
+}
