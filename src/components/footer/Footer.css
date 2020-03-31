@@ -1,9 +1,16 @@
+.container {
+  min-height: 100vh;
+  min-height: 100%;
+}
+
 .footer {
   background-color: #000000;
   color: #605c5c;
   display: flex;
   flex-direction: column;
   justify-content: center;
+ 
+
   padding-top: 20px;
   position: absolute;
   left: 0;
