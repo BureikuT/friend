@@ -5,22 +5,17 @@
   flex-direction: column;
   justify-content: center;
   padding-top: 20px;
-  padding-bottom: 20px;
   position: absolute;
+  left: 0;
   bottom: 0;
-  width: 100%;
-
- 
+  right: 0;
 }
 
-.info{
-   display: flex;
-   flex-direction: row;
-   justify-content: space-evenly;
-
-
+.info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
 }
-
 
 .location {
   display: flex;
@@ -33,19 +28,16 @@
   justify-content: center;
 }
 
-
 .cityState {
   padding-top: 5px;
   color: #605c5c;
   font-weight: 500;
 }
 
-
 .email {
   display: flex;
   flex-direction: column;
 }
-
 
 .emailImg {
   color: white;
@@ -53,18 +45,14 @@
   justify-content: center;
 }
 
-
-.emailAddress{
-    padding-top: 5px;
-    color: #605c5c;
-    font-weight: 500;  
+.emailAddress {
+  padding-top: 5px;
+  color: #605c5c;
+  font-weight: 500;
 }
 
-
- .end{
-display: flex;
-    justify-content: center;
-    padding-top: 10px
+.end {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
 }
-
-
